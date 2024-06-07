@@ -1,5 +1,5 @@
 # ShellScripts
-Utilty tools for linux
+Utility tools for linux
 
 ## Useage
 
