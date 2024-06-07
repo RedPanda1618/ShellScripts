@@ -12,5 +12,5 @@ Utility tools for linux
 2. Add path to .bashrc.
   
   ```
-  $ echo 'export PATH=$PATH:~/ShellScripts' >> ~/.bashrc
+  echo 'export PATH=$PATH:~/ShellScripts' >> ~/.bashrc
   ```
