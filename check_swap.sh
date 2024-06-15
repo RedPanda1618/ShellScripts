@@ -34,5 +34,5 @@ for pid in $(ls /proc | grep -E '^[0-9]+$'); do
       printf "%-10s %-12d %-16.6f %s\n" "$user" "$pid" "$swap_gb" "$cmd"
     fi
   fi
-done | sort -k3 -nr | head -n 20
+done | sort -k3 -nr | head -n 10
 
